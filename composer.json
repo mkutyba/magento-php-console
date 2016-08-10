@@ -1,0 +1,8 @@
+{
+    "name": "kutybait/magento-php-console",
+    "type": "magento-module",
+    "require": {
+        "magento-hackathon/magento-composer-installer": "*",
+        "php-console/php-console": "~3.0"
+    }
+}
